@@ -2,8 +2,6 @@
 最关键的是它是开源的
 增加说明
 哈哈
-dfjoajfakdjoijadjfoi
-测试diff
 试一试推送到远程仓库
 Creating a new branch is quick.Creating a new branch is quick.
 Creating a new branch is quick and simple.
