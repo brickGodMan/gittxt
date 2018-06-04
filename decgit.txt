@@ -6,10 +6,7 @@
 Creating a new branch is quick.Creating a new branch is quick.
 Creating a new branch is quick and simple.
 多个电脑协同编辑
-<<<<<<< HEAD
 测试merge
 Git is a free software ...
 测试+1
-=======
 dd
->>>>>>> 9136076c1c1a551723f9cd5eb0f40bca7eedb115
